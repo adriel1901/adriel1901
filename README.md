@@ -3,13 +3,13 @@ Olá 👋, eu sou Cauã Adriel</h1>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7aa2f7&size=28&center=true&vCenter=true&width=1000&lines=Desenvolvedor+de+Software;BackEnd+e+FrontEnd;Estudante+de+Ciência+da+Computação;Entusiasta+de+IA,+IoT+e+Automação)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7aa2f7&size=28&center=true&vCenter=true&width=1000&lines=Programador;BackEnd+e+FrontEnd;Estudante+de+Ciência+da+Computação;Entusiasta+de+IA,+IoT+e+Automação)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="420" src="https://raw.githubusercontent.com/adriel1901/adriel1901/main/assets/coding.gif">
+<img align="right" alt="Coding" width="650" src="https://raw.githubusercontent.com/adriel1901/adriel1901/main/assets/coding.gif">
 
 ## 👨‍💻 Sobre mim
 
