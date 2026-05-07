@@ -1,58 +1,57 @@
 <h1 align="center">Olá 👋, eu sou Cauã Adriel</h1>
-<h3 align="center">Desenvolvedor BackEnd & FrontEnd do Brasil 🇧🇷</h3>
+<h3 align="center">Programador | BackEnd & FrontEnd | Estudante de Ciência da Computação</h3>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7aa2f7&size=28&center=true&vCenter=true&width=1000&lines=Desenvolvedor+BackEnd;Desenvolvedor+FrontEnd;Estudando+JavaScript;Desenvolvedor+Java;Entusiasta+de+Arduino+e+IoT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7aa2f7&size=28&center=true&vCenter=true&width=1000&lines=Desenvolvedor+de+Software;BackEnd+e+FrontEnd;Estudante+de+Ciência+da+Computação;Entusiasta+de+IA,+IoT+e+Automação)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/adriel1901/adriel1901/main/assets/coding.gif">
+<img align="right" alt="Coding" width="420" src="https://raw.githubusercontent.com/adriel1901/adriel1901/main/assets/coding.gif">
 
 ## 👨‍💻 Sobre mim
 
-- 🔭 Atualmente trabalho com **BackEnd e FrontEnd**
-- 🏣 Aprendiz em Engenharia SMD - **Visteon Corporation**
-- 🏫 Cursando Ciência da Computação
-- 🌱 Atualmente estudando **JavaScript**
-- 📫 Contato: **cauaadriel2@gmail.com**
-- 🐧 Usuário Linux
-- ⚡ Focado em IA, automação e desenvolvimento web
+Sou Programador com formação técnica em Informática pelo Instituto Federal do Amazonas (IFAM) e atualmente graduando em Ciência da Computação.
+
+Atuo com desenvolvimento BackEnd e FrontEnd, com foco em aplicações web, automação e soluções voltadas à tecnologia e inovação. Atualmente trabalho na Visteon Corporation, empresa multinacional do setor automotivo especializada no desenvolvimento de tecnologias para cockpit digital, sistemas eletrônicos embarcados e soluções inteligentes para veículos.
+
+Possuo interesse em Engenharia de Software, Inteligência Artificial, Internet das Coisas (IoT), automação e desenvolvimento de sistemas escaláveis, buscando constantemente aprimorar minhas habilidades técnicas e profissionais através de projetos, estudos e experiências práticas.
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Linguagens • 🛠️ Tecnologias/Ferramentas • 🐧 Sistemas
 
-<div align="center">
+<div align="left">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript)
-![NodeJS](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql)
+### 💻 Linguagens
+
+[![Linguagens](https://skillicons.dev/icons?i=js,html,css,java,cpp,c&theme=dark)](https://skillicons.dev)
+
+### 🛠️ Tecnologias e Ferramentas
+
+[![Ferramentas](https://skillicons.dev/icons?i=nodejs,mysql,git,arduino&theme=dark)](https://skillicons.dev)
+
+### 🐧 Sistemas
+
+[![Sistemas](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)
 
 </div>
 
----
-
-## 🛠️ Ferramentas e Sistemas
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git)
-![Arduino](https://img.shields.io/badge/Arduino_IDE-0d1117?style=for-the-badge&logo=arduino)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux)
-
-</div>
 
 ---
 
+## 📂 Projetos em Destaque
+
+### 🔹 IfControl 3.0
+Sistema de automação e monitoramento desenvolvido com foco em integração entre hardware e software, utilizando conceitos de IoT, controle inteligente e gerenciamento de dispositivos.
+
+🔗 Repositório:
+https://github.com/adriel1901/IfControl3.0
+
+
+---
 
 ## 🔥 Sequência de Contribuições
 
@@ -62,26 +61,5 @@
 
 </div>
 
----
-
-## 🌐 Redes e Contato
-
-<div align="center">
-
-<a href="https://github.com/adriel1901" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:cauaadriel2@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail"/>
-</a>
-
-</div>
 
 ---
-
-<div align="center">
-
-![Contador de Visitas](https://komarev.com/ghpvc/?username=adriel1901&color=7aa2f7&style=for-the-badge)
-
-</div>
