@@ -53,7 +53,15 @@ https://github.com/adriel1901/IfControl3.0
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/adriel1901/adriel1901/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adriel1901/adriel1901/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adriel1901/adriel1901/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/adriel1901/adriel1901/output/snake.svg">
+</picture>
+
+</div>
 
 ---
 
