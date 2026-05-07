@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Cauã Adriel</h1>
+Olá 👋, eu sou Cauã Adriel</h1>
 <h3 align="center">Programador | BackEnd & FrontEnd | Estudante de Ciência da Computação</h3>
 
 <div align="center">
@@ -50,6 +50,10 @@ Sistema de automação e monitoramento desenvolvido com foco em integração ent
 🔗 Repositório:
 https://github.com/adriel1901/IfControl3.0
 
+
+---
+
+![Snake animation](https://raw.githubusercontent.com/adriel1901/adriel1901/output/github-contribution-grid-snake.svg)
 
 ---
 
