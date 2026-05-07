@@ -9,7 +9,7 @@ Olá 👋, eu sou Cauã Adriel</h1>
 
 ---
 
-<img align="right" alt="Coding" width="650" src="https://raw.githubusercontent.com/adriel1901/adriel1901/main/assets/coding.gif">
+<img align="right" alt="Coding" width="550" src="https://raw.githubusercontent.com/adriel1901/adriel1901/main/assets/coding.gif">
 
 ## 👨‍💻 Sobre mim
 
