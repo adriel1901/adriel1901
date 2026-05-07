@@ -9,12 +9,13 @@
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xwY2x5a3d0OHFvN2N2ZW9iOHJwdnUwM2J1b3Q1MXA4dTNhNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/adriel1901/adriel1901/main/assets/coding.gif">
 
 ## 👨‍💻 Sobre mim
 
 - 🔭 Atualmente trabalho com **BackEnd e FrontEnd**
 - 🏣 Aprendiz em Engenharia SMD - **Visteon Corporation**
+- 🏫 Cursando Ciência da Computação
 - 🌱 Atualmente estudando **JavaScript**
 - 📫 Contato: **cauaadriel2@gmail.com**
 - 🐧 Usuário Linux
