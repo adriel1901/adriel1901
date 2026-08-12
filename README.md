@@ -64,14 +64,3 @@ https://github.com/adriel1901/IfControl3.0
 </div>
 
 ---
-
-## 🔥 Sequência de Contribuições
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=adriel1901&theme=tokyonight&border_radius=15)](https://git.io/streak-stats)
-
-</div>
-
-
----
