@@ -44,9 +44,8 @@ Possuo interesse em Engenharia de Software, Inteligência Artificial, Internet d
 ## 📊 Minha Atividade no GitHub
 
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=adriel1901&theme=dark&background=13171A&border=24282E&stroke=24282E&ring=60447E&fire=60447E&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=C678DD&sideLabels=C678DD&dates=FFFFFF)
-
+  <img src="https://streak-stats.demolab.com?user=adriel1901&theme=dark&background=0D1117&border=1E3A5F&stroke=1E3A5F&ring=274C77&fire=4682B4&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=6495ED&sideLabels=6495ED&dates=8B949E" alt="GitHub Streak Stats" />
+</div>
 ---
 
 <div align="center">
