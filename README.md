@@ -39,17 +39,13 @@ Possuo interesse em Engenharia de Software, Inteligência Artificial, Internet d
 
 </div>
 
-
 ---
 
-## 📂 Projetos em Destaque
+## 📊 Minha Atividade no GitHub
 
-### 🔹 IfControl 3.0
-Sistema de automação e monitoramento desenvolvido com foco em integração entre hardware e software, utilizando conceitos de IoT, controle inteligente e gerenciamento de dispositivos.
+<div align="center">
 
-🔗 Repositório:
-https://github.com/adriel1901/IfControl3.0
-
+![GitHub Streak](https://streak-stats.demolab.com?user=adriel1901&theme=dark&background=13171A&border=24282E&stroke=24282E&ring=60447E&fire=60447E&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=C678DD&sideLabels=C678DD&dates=FFFFFF)
 
 ---
 
