@@ -15,7 +15,7 @@ Olá 👋, eu sou Cauã Adriel</h1>
 
 Sou Programador com formação técnica em Informática pelo Instituto Federal do Amazonas (IFAM) e atualmente graduando em Ciência da Computação.
 
-Atuo com desenvolvimento BackEnd e FrontEnd, com foco em aplicações web, automação e soluções voltadas à tecnologia e inovação. Atualmente trabalho na Visteon Corporation, empresa multinacional do setor automotivo especializada no desenvolvimento de tecnologias para cockpit digital, sistemas eletrônicos embarcados e soluções inteligentes para veículos.
+Atuo com desenvolvimento BackEnd e FrontEnd, com foco em aplicações web, automação e soluções voltadas à tecnologia e inovação. Atualmente trabalho na Visteon Corporation, empresa multinacional do setor automotivo especializada no desenvolvimento de soluções inteligentes para veículos, como clusters e rádios com integração android automotive.
 
 Possuo interesse em Engenharia de Software, Inteligência Artificial, Internet das Coisas (IoT), automação e desenvolvimento de sistemas escaláveis, buscando constantemente aprimorar minhas habilidades técnicas e profissionais através de projetos, estudos e experiências práticas.
 
